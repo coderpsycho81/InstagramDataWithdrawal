@@ -1,6 +1,9 @@
 # Explanation
 This program is a C# WinForms application developed to retrieve data from Instagram profiles. Users provide a profile URL in the program interface. The program then fetches the relevant profile information and media content using this URL.
 
+# Note
+After opening the program, you need to update the "Selenium.Chrome.Driver" package from nuget to the latest version.
+
 # Key Features:
 1- Retrieving Profile Information: Using the provided URL, the program utilizes Instagram APIs to fetch general profile information (such as name, follower count, following count, etc.).
 
